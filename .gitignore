@@ -1,1 +1,5 @@
 .idea/
+todo/todo-client/node_modules
+todo/todo-client/.idea/
+calculator/node_modules
+calculator/.idea/
